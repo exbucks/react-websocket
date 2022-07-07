@@ -9,7 +9,7 @@
     "apisauce": "^1.1.1",
     "boostrap": "^2.0.0",
     "classnames": "^2.2.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.13.0",
     "ramda": "^0.26.1",
     "react": "^16.12.0",
